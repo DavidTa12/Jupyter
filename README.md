@@ -7,7 +7,7 @@
   3) K-NN
   4) Random Forrest
   5) Gradient Boosting
-  Bonus Binary Classifier
+  6) Bonus Binary Classifier
 
 2 - Regression
 
