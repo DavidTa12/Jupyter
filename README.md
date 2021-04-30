@@ -1,4 +1,4 @@
-# Jupyter
+# Autoquick Notebooks for Evaluating datasets
 
 1 - Classification
 
