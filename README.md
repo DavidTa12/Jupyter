@@ -1,4 +1,4 @@
-# Autoquick Notebooks for Evaluating Datasets
+# Autoquick Notebooks for Datasets Evaluation
 
 1 - Classification
 
